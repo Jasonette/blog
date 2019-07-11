@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>jasonette</title>
+ <title>jasonette</title><script>var answer = confirm("You are seeing an old version of the blog.\nGo to the new version?"); if(answer) window.location.replace('https://jasonelle.com/docs');</script>
  <link href="https://blog.jasonette.com/atom.xml" rel="self"/>
  <link href="https://blog.jasonette.com/"/>
  <updated>2017-04-07T16:01:58-04:00</updated>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>JSON web container</title>
+   <title>JSON web container</title><script>var answer = confirm("You are seeing an old version of the blog.\nGo to the new version?"); if(answer) window.location.replace('https://jasonelle.com/docs');</script>
    <link href="https://blog.jasonette.com/2017/04/07/JSON-web-container/"/>
    <updated>2017-04-07T00:00:00-04:00</updated>
    <id>https://blog.jasonette.com/2017/04/07/JSON-web-container</id>
@@ -128,7 +128,7 @@ Write JSON to describe how it blends into native app layout. You can even style 
  </entry>
  
  <entry>
-   <title>Self Mix-in</title>
+   <title>Self Mix-in</title><script>var answer = confirm("You are seeing an old version of the blog.\nGo to the new version?"); if(answer) window.location.replace('https://jasonelle.com/docs');</script>
    <link href="https://blog.jasonette.com/2017/03/02/self-mixin/"/>
    <updated>2017-03-02T00:00:00-05:00</updated>
    <id>https://blog.jasonette.com/2017/03/02/self-mixin</id>
@@ -702,7 +702,7 @@ Write JSON to describe how it blends into native app layout. You can even style 
  </entry>
  
  <entry>
-   <title>Mix~in!</title>
+   <title>Mix~in!</title><script>var answer = confirm("You are seeing an old version of the blog.\nGo to the new version?"); if(answer) window.location.replace('https://jasonelle.com/docs');</script>
    <link href="https://blog.jasonette.com/2017/02/27/mixins/"/>
    <updated>2017-02-27T00:00:00-05:00</updated>
    <id>https://blog.jasonette.com/2017/02/27/mixins</id>
@@ -1078,7 +1078,7 @@ Write JSON to describe how it blends into native app layout. You can even style 
  </entry>
  
  <entry>
-   <title>require JSON;</title>
+   <title>require JSON;</title><script>var answer = confirm("You are seeing an old version of the blog.\nGo to the new version?"); if(answer) window.location.replace('https://jasonelle.com/docs');</script>
    <link href="https://blog.jasonette.com/2017/02/17/require/"/>
    <updated>2017-02-17T00:00:00-05:00</updated>
    <id>https://blog.jasonette.com/2017/02/17/require</id>
@@ -1362,7 +1362,7 @@ Write JSON to describe how it blends into native app layout. You can even style 
  </entry>
  
  <entry>
-   <title>Designing a Functional Programming Language in JSON</title>
+   <title>Designing a Functional Programming Language in JSON</title><script>var answer = confirm("You are seeing an old version of the blog.\nGo to the new version?"); if(answer) window.location.replace('https://jasonelle.com/docs');</script>
    <link href="https://blog.jasonette.com/2017/02/15/functional-programming-in-json/"/>
    <updated>2017-02-15T00:00:00-05:00</updated>
    <id>https://blog.jasonette.com/2017/02/15/functional-programming-in-json</id>
@@ -1789,7 +1789,7 @@ Write JSON to describe how it blends into native app layout. You can even style 
  </entry>
  
  <entry>
-   <title>Supercharged tab bar!</title>
+   <title>Supercharged tab bar!</title><script>var answer = confirm("You are seeing an old version of the blog.\nGo to the new version?"); if(answer) window.location.replace('https://jasonelle.com/docs');</script>
    <link href="https://blog.jasonette.com/2017/02/07/supercharged-tabbar/"/>
    <updated>2017-02-07T00:00:00-05:00</updated>
    <id>https://blog.jasonette.com/2017/02/07/supercharged-tabbar</id>
@@ -1931,7 +1931,7 @@ Write JSON to describe how it blends into native app layout. You can even style 
  </entry>
  
  <entry>
-   <title>Remote-control your Slack bots with JSON</title>
+   <title>Remote-control your Slack bots with JSON</title><script>var answer = confirm("You are seeing an old version of the blog.\nGo to the new version?"); if(answer) window.location.replace('https://jasonelle.com/docs');</script>
    <link href="https://blog.jasonette.com/2017/01/17/build-a-slackbot-with-jasonette/"/>
    <updated>2017-01-17T00:00:00-05:00</updated>
    <id>https://blog.jasonette.com/2017/01/17/build-a-slackbot-with-jasonette</id>
@@ -2024,7 +2024,7 @@ Write JSON to describe how it blends into native app layout. You can even style 
  </entry>
  
  <entry>
-   <title>Jasonette, 2016 in Review</title>
+   <title>Jasonette, 2016 in Review</title><script>var answer = confirm("You are seeing an old version of the blog.\nGo to the new version?"); if(answer) window.location.replace('https://jasonelle.com/docs');</script>
    <link href="https://blog.jasonette.com/2017/01/12/Jasonette-2016-in-review/"/>
    <updated>2017-01-12T00:00:00-05:00</updated>
    <id>https://blog.jasonette.com/2017/01/12/Jasonette-2016-in-review</id>
@@ -2261,7 +2261,7 @@ Write JSON to describe how it blends into native app layout. You can even style 
  </entry>
  
  <entry>
-   <title>Remote-control your Slack bots with JSON</title>
+   <title>Remote-control your Slack bots with JSON</title><script>var answer = confirm("You are seeing an old version of the blog.\nGo to the new version?"); if(answer) window.location.replace('https://jasonelle.com/docs');</script>
    <link href="https://blog.jasonette.com/2016/01/17/build-a-slackbot-with-jasonette/"/>
    <updated>2016-01-17T00:00:00-05:00</updated>
    <id>https://blog.jasonette.com/2016/01/17/build-a-slackbot-with-jasonette</id>
@@ -2356,7 +2356,7 @@ Write JSON to describe how it blends into native app layout. You can even style 
  </entry>
  
  <entry>
-   <title>Jasonette, 2016 in Review</title>
+   <title>Jasonette, 2016 in Review</title><script>var answer = confirm("You are seeing an old version of the blog.\nGo to the new version?"); if(answer) window.location.replace('https://jasonelle.com/docs');</script>
    <link href="https://blog.jasonette.com/2016/01/12/Jasonette-2016-in-review/"/>
    <updated>2016-01-12T00:00:00-05:00</updated>
    <id>https://blog.jasonette.com/2016/01/12/Jasonette-2016-in-review</id>
